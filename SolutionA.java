@@ -1,3 +1,4 @@
+/*HEYY BABY its me/*
 import java.util.Scanner;
   
 public class SolutionA{
